@@ -17513,7 +17513,7 @@ var $async$ei=P.B(function(b,c){if(b===1)return P.C(c,r)
 while(true)switch(s){case 0:m={}
 Q.N9()
 m.a=null
-p=P.ku("http://localhost:3000/"+a.a)
+p=P.ku("https://api.raya.vooomapp.com/"+a.a)
 P.bB(C.c.X("POST ",p.j(0)))
 o=a.b
 P.bB(O.fE(o))
@@ -17531,7 +17531,7 @@ b3V:function(a,b){var s=0,r=P.F(t.Ni),q,p,o,n
 var $async$dj=P.B(function(c,d){if(c===1)return P.C(d,r)
 while(true)switch(s){case 0:n={}
 n.a=null
-p=P.ku("http://localhost:3000/"+a)
+p=P.ku("https://api.raya.vooomapp.com/"+a)
 P.bB(C.c.X("GET ",p.j(0)))
 o=t.X
 s=3
@@ -17547,7 +17547,7 @@ var $async$f8=P.B(function(d,e){if(d===1)return P.C(e,r)
 while(true)switch(s){case 0:n={}
 Q.N9()
 n.a=null
-p=P.ku("http://localhost:3000/"+a)
+p=P.ku("https://api.raya.vooomapp.com/"+a)
 P.bB("DELETE "+p.j(0)+"}")
 o=t.X
 s=3
@@ -17563,7 +17563,7 @@ var $async$fp=P.B(function(f,g){if(f===1)return P.C(g,r)
 while(true)switch(s){case 0:n={}
 Q.N9()
 n.a=null
-p=P.ku("http://localhost:3000/"+a)
+p=P.ku("https://api.raya.vooomapp.com/"+a)
 P.bB(C.c.X("PATCH ",p.j(0)))
 P.bB(O.fE(b))
 o=t.X
