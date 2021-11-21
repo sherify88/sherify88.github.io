@@ -55272,7 +55272,7 @@ q=T.a3(H.a([j,o,R.aG(!1,!0,M.q(C.z,L.k("\u0625\u0646\u0634\u0627\u0621 \u0645\u0
 p=T.W(k,10,k)
 n=$.J
 o=$.aD
-return T.c6(new F.cC(M.d_(k,C.ab,T.a3(H.a([s,T.Y(new T.G(new V.j(10,10,10,10),T.H(H.a([new X.cL("\u0627\u0644\u0645\u0646\u062f\u0648\u0628\u064a\u0646",k),r,q,E.iC(T.H(H.a([p,T.a3(H.a([M.q(k,T.e2(new S.asI(l),k,new S.asJ(l),k,!1,new S.asK(l)),C.e,k,k,k,k,o/1.5,k,k,k,k,n/2.5),new U.bj(new S.asL(l),k)],m),C.y,C.j,C.d)],m),C.y,C.j,C.d))],m),C.f,C.j,C.d),k),1)],m),C.f,C.j,C.d),k,k),new S.asF(),k),C.t)}}
+return T.c6(new F.cC(M.d_(k,C.ab,T.a3(H.a([s,T.Y(T.H(H.a([new X.cL("\u0627\u0644\u0645\u0646\u062f\u0648\u0628\u064a\u0646",k),r,q,E.iC(T.H(H.a([p,T.a3(H.a([M.q(k,T.e2(new S.asI(l),k,new S.asJ(l),k,!1,new S.asK(l)),C.e,k,k,k,k,o/1.5,k,k,k,k,n/2.5),new U.bj(new S.asL(l),k)],m),C.y,C.j,C.d)],m),C.y,C.j,C.d))],m),C.f,C.j,C.d),1)],m),C.f,C.j,C.d),k,k),new S.asF(),k),C.t)}}
 S.asF.prototype={
 $0:function(){K.aW(!0,!1,null)},
 $C:"$0",
