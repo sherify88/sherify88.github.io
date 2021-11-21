@@ -51452,7 +51452,7 @@ g=T.W(l,10,l)
 h=T.e2(new E.alY(m),l,new E.alZ(m),l,!1,new E.am_(m))
 s=T.W(l,10,l)
 r=K.at(3)
-r=R.aG(!1,!0,M.q(l,L.k("\u0625\u0646\u0634\u0627\u0621 \u062e\u062f\u0645\u0629",l,l,l,A.p(l,l,C.l,l,l,l,l,l,l,l,l,14,l,l,l,l,!0,l,l,l,l,l,l,l),l,l),C.e,l,l,new S.a0(C.m,l,l,r,l,l,C.n),l,l,l,new V.j(15,10,15,10),l,l,l),l,!0,l,l,l,l,l,l,l,l,l,l,new E.am0(),l,l,l)
+r=R.aG(!1,!0,M.q(l,L.k("\u0625\u0646\u0634\u0627\u0621 \u062e\u0628\u0631",l,l,l,A.p(l,l,C.l,l,l,l,l,l,l,l,l,14,l,l,l,l,!0,l,l,l,l,l,l,l),l,l),C.e,l,l,new S.a0(C.m,l,l,r,l,l,C.n),l,l,l,new V.j(15,10,15,10),l,l,l),l,!0,l,l,l,l,l,l,l,l,l,l,new E.am0(),l,l,l)
 q=T.W(l,l,10)
 p=P.x(C.h.a_(127.5),0,0,0)
 o=K.at(3)
@@ -51489,7 +51489,7 @@ $C:"$4",
 $R:4,
 $S:266}
 E.am0.prototype={
-$0:function(){K.aW(!1,!1,"/create_service")},
+$0:function(){K.aW(!1,!1,"/create_news")},
 $S:1}
 E.am1.prototype={
 $0:function(){},
